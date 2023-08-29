@@ -1,1 +1,1 @@
-Software Engineering is not for the weak.
+My first readme
